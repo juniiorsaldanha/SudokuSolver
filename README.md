@@ -1,2 +1,3 @@
 # SudokuSolver
-Trabalho de lógica da computação 
+
+Implementação de um solver para resolver qualquer jogo do Sudoku, usando as clausulas SAT. 
